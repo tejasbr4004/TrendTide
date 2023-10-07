@@ -1,0 +1,58 @@
+.container1{
+    display: flex;
+    width: 100%;
+    
+  }
+  
+  .sidelists{
+    width: 20%;
+    margin: 20px;
+    height: 650px;
+    text-decoration: none;
+   
+  }
+  .maincontainer{
+    width: 100%;
+    margin: 5px;
+    margin-top: 25px;
+    height: fit-content;
+    border: 2px solid green;
+  }
+
+.sideflex{
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  width: 16%;
+  position: fixed;
+  border-radius: 5px;
+  box-shadow: 5px 4px 7px -3px black;
+  
+}
+.sidetext{
+  margin-top: 35px;
+  margin-left: 15px;
+  cursor: pointer;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.col-md-4{
+  margin-top: 25px;
+}
+
+.cardshadow{
+  box-shadow: 5px 4px 7px -3px black;
+}
+
+
+@media only screen and (max-width: 903px) {
+  .sidelists{
+    display: none;
+  }
+}
+@media only screen and (min-width: 903px) {
+  .navbar-toggler{
+    display: none;
+  }
+}
