@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tejasbr4004/TrendTide.git/static/css/main.52bc643b.css",
+    "main.js": "/tejasbr4004/TrendTide.git/static/js/main.8609f735.js",
+    "static/js/787.c6a45482.chunk.js": "/tejasbr4004/TrendTide.git/static/js/787.c6a45482.chunk.js",
+    "index.html": "/tejasbr4004/TrendTide.git/index.html",
+    "main.52bc643b.css.map": "/tejasbr4004/TrendTide.git/static/css/main.52bc643b.css.map",
+    "main.8609f735.js.map": "/tejasbr4004/TrendTide.git/static/js/main.8609f735.js.map",
+    "787.c6a45482.chunk.js.map": "/tejasbr4004/TrendTide.git/static/js/787.c6a45482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bc643b.css",
+    "static/js/main.8609f735.js"
+  ]
+}
